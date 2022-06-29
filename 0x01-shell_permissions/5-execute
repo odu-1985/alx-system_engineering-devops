@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo chmod -R root+rwx /hello/0x01-shell_permissions
+chmod +x hello
 
 
