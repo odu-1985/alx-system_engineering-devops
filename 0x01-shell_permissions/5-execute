@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod +x hello.sh
+chmod +x hello
 
 
