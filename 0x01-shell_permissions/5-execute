@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod +rwx hello
+chmod + 700 hello
 
 
